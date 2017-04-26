@@ -8,7 +8,7 @@ Team school project
 
 ## Installation
 
-First, you need to create a database that follows the schema written in the models (server/app/models/movie).
+First, you need to create a database that follows the schema written in the models (server/app/models/movie).     
 Make sure you also change the keys in config file for the oauth API (server/config/auth.js).
 
 After that, you'll need to install few things :
@@ -24,11 +24,11 @@ package.json of each folder (client and server)
 
 ## Functionalities
 
-- Find comment that match the criteria, in this case where the only text is tagged people  
+- Simple website with pretty interface and custom player.
 
-- Store their names in a MongoDB Database
+- User database with oauth connection
 
-- When their names appear x times in the Database, send yourself a message with a link to the comment
+- API REST
 
 ## API Reference
 
