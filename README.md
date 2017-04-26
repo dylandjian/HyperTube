@@ -9,7 +9,6 @@ Team school project
 ## Installation
 
 First, you need to create a database that follows the schema written in the models (server/app/models/movie).
-
 Make sure you also change the keys in config file for the oauth API (server/config/auth.js).
 
 After that, you'll need to install few things :
